@@ -1,4 +1,4 @@
-AUTHOR: Micha≥ PlebaÒski
+AUTHOR: Micha≈Ç Pleba√±ski
 
 TITTLE: Paper-scissors-rock game
 
